@@ -1,7 +1,2 @@
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
+ <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
